@@ -2,7 +2,7 @@
 
 # Descrição
 
-<p> Componente de resumo de pedido é um desafio do <a href="">Frontend Mentor</a> que possibilita o treinamento e melhoramento das habilidades necessárias para o Front-end.
+<p> Componente de resumo de pedido é um desafio do <a href="https://www.frontendmentor.io/">Frontend Mentor</a> que possibilita o treinamento e melhoramento das habilidades necessárias para o Front-end.
 O nome do desafio é auto explicativo, mas o objetivo do desafio é a criação e estilização de uma tela de resumo de um produto. </p>
 
 # Tecnologias
