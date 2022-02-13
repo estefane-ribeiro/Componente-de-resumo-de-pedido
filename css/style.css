@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f4f4f4 url(../images/pattern-background-desktop.svg) no-repeat;
+}
+
+.componente {
+    width: 350px;
+    background-color: white;
+    margin: 20px auto;
+    border-radius: 20px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.componente > img {
+    width: 100%;
+    border-radius: 20px 20px 0 0;
+    margin-bottom: 35px;
+}
+
+.componente p {
+    color: rgb(163, 158, 158);
+    margin: 30px 2px;
+    width: 95%;
+}
+
+.produto {
+    display: flex;
+    background-color: #f4f4f4;
+    width: 85%;
+    margin: 0 auto ;
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 15px;
+    
+}
+
+strong {
+    color: black;
+    font-size: 1.2em;
+
+}
+
+.produto img {
+    height: 90%;
+    margin: 10px 10px;
+}
+
+.produto p {
+    margin: 0;
+    line-height: 20px;
+    margin: 10px 30px 0 0;
+}
+
+.produto a {
+    margin: auto 10px;
+    
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    width: 80%;
+    border-radius: 10px;
+    border: none;
+    background-color: white;
+    
+}
+
+button.comprar {
+    background-color: blue;
+    color: white;
+    margin-bottom: 5px;
+}
+
+button:hover {
+    background-color: #f4f4f4;
+}
+
+button.comprar:hover{
+    background-color: rgba(0, 0, 255, 0.541);
+    color: black;
+}
